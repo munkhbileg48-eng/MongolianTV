@@ -11,6 +11,7 @@
 'ETV',
 'MN25',
 'MNB',
+'MNC',
 'MNB Sport',
 'Mongolian News',
 'Монгол TV',
@@ -25,3 +26,17 @@
 'TV9',
 'UBS',
 'Ulzii TV',
+
+Телевизүүдийн шууд эфир
+
+'https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8',
+'https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8',
+'https://cdn4.skygo.mn/live/disk1/Education/HLSv3-FTA/Education.m3u8',
+'https://cdn4.skygo.mn/live/disk1/C1/HLSv3-FTA/C1.m3u8',
+'https://cdn4.skygo.mn/live/disk1/Ekh_Oron/HLSv3-FTA/Ekh_Oron.m3u8',
+'https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8',
+'https://cdn4.skygo.mn/live/disk1/Eagle/HLSv3-FTA/Eagle.m3u8',
+'https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8',
+'https://cdn4.skygo.mn/live/disk1/ETV/HLSv3-FTA/ETV.m3u8',
+'https://cdn4.skygo.mn/live/disk1/MN25/HLSv3-FTA/MN25.m3u8',
+'https://cdn4.skygo.mn/live/disk1/MNB/HLSv3-FTA/MNB.m3u8',
